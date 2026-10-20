@@ -1,0 +1,23 @@
+{
+  "name": "pokemon-trainer-hub-alunos",
+  "version": "1.0.0",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "api": "json-server server/db.json --host 0.0.0.0 --port 3001"
+  },
+  "dependencies": {
+    "expo": "~57.0.30",
+    "react": "19.2.3",
+    "react-native": "0.86.3"
+  },
+  "devDependencies": {
+    "@types/react": "~19.2.4",
+    "json-server": "^1.0.0-beta.3",
+    "typescript": "~6.0.3"
+  }
+}

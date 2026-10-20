@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "Pokemon Trainer Hub",
+    "slug": "pokemon-trainer-hub",
+    "version": "1.0.0",
+    "orientation": "portrait"
+  }
+}
