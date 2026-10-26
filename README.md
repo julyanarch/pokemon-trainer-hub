@@ -1,6 +1,4 @@
-# Pokémon Trainer Hub — Código inicial (alunos)
-
-Este projeto contém a estrutura pronta, com **TODOs para completar**. Não é a solução da prova.
+# Pokémon Trainer Hub 
 
 ## Executar
 
